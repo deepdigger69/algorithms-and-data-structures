@@ -4,3 +4,4 @@ def two_sum(nums, target):
         if target - n in seen:
             return [seen[target - n], i]
         seen[n] = i
+# TODO: add tests
