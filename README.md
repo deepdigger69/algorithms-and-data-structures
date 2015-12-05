@@ -8,3 +8,4 @@ Working notes and solutions, organized by topic.
 
 Each file carries a docstring with approach and complexity.
 # edge case: empty input
+assert two_sum([2,7,11,15], 9) == [0,1]
