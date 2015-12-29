@@ -5,3 +5,4 @@ def coin_change(coins, amount):
             if c <= a:
                 dp[a] = min(dp[a], dp[a - c] + 1)
     return -1 if dp[amount] == float('inf') else dp[amount]
+# O(n log n)
