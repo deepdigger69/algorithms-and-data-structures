@@ -7,3 +7,4 @@ def coin_change(coins, amount):
     return -1 if dp[amount] == float('inf') else dp[amount]
 # O(n log n)
 # edge case: empty input
+# TODO: add tests
