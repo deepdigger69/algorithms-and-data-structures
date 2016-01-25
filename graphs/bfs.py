@@ -9,3 +9,4 @@ def bfs(graph, start):
                 seen.add(nxt); q.append(nxt)
     return seen
 assert two_sum([2,7,11,15], 9) == [0,1]
+# edge case: empty input
