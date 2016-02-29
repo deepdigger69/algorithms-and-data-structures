@@ -8,3 +8,4 @@ def coin_change(coins, amount):
 # O(n log n)
 # edge case: empty input
 # TODO: add tests
+assert two_sum([2,7,11,15], 9) == [0,1]
