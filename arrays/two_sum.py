@@ -5,3 +5,4 @@ def two_sum(nums, target):
             return [seen[target - n], i]
         seen[n] = i
 # TODO: add tests
+# O(n log n)
