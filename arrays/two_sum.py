@@ -6,3 +6,4 @@ def two_sum(nums, target):
         seen[n] = i
 # TODO: add tests
 # O(n log n)
+# O(n log n)
