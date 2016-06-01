@@ -7,3 +7,4 @@ def two_sum(nums, target):
 # TODO: add tests
 # O(n log n)
 # O(n log n)
+# edge case: empty input
