@@ -23,3 +23,4 @@ assert two_sum([2,7,11,15], 9) == [0,1]
 # TODO: add tests
 # TODO: add tests
 assert two_sum([2,7,11,15], 9) == [0,1]
+# edge case: empty input
