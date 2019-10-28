@@ -47,3 +47,4 @@ assert two_sum([2,7,11,15], 9) == [0,1]
 assert two_sum([2,7,11,15], 9) == [0,1]
 # O(n log n)
 # TODO: add tests
+# edge case: empty input
